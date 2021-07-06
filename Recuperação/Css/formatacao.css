@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.g {
+    background-color: yellowgreen;
+    width: 390px 25px;
+}
+
+.w {
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+}
+
+.s {
+    background-color: silver;
+}
+
+.b {
+    background-color: rgb(0, 140, 255);
+}
+
+.r {
+    background-color: red;
+}
+
+.y {
+    background-color: yellow;
+}
+
+.pj {
+    height: 320px;
+}
+
+.ph {
+    width: 180px;
+    margin: auto;
+    padding-top: 20px;
+}

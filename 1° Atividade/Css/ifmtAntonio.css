@@ -1,0 +1,54 @@
+* {
+    box-sizing: boder-box;
+}
+
+table {
+    width: 600px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+thead,
+tbody {
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+th,
+td {
+    border: 1px solid #000;
+    margin: 2px;
+    padding: 2px;
+}
+
+.t {
+    color: #fff;
+    background-color: #0d5188;
+}
+
+.posicao {
+    background-color: silver;
+}
+
+.cidade {
+    color: #0d5188;
+    background-color: #fff;
+}
+
+.fnormal {
+    font-weight: normal;
+}
+
+.colpw {
+    width: 60px;
+}
+
+.colqw {
+    width: 90px;
+    background-color: #c7e7f7;
+}
+
+.leg {
+    background-color: #66c5e3;
+}
